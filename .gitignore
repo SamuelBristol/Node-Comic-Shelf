@@ -4,3 +4,6 @@ node_modules
 # Working directories
 comics/giantitp/*
 !comics/giantitp/.gitkeep
+
+# Mac .DS_Store files
+.DS_Store
